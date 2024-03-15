@@ -1,4 +1,4 @@
 # Chemistry-Scripts
-Repo of useful chemistry functionalities.
+Repo of useful chemistry functionalities and utilities.
 
-This repository is a collection of scripts which were developed to assist chemists or perform chemistry related operations. 
+
