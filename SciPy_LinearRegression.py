@@ -1,3 +1,6 @@
+"""Abstracts computation and encapsulates regression statistics
+Intended to modularize SciPy data processing"""
+
 import numpy as np
 from scipy import stats
 
